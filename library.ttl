@@ -1,0 +1,566 @@
+<http://ex.org/property/1035>
+        <http://ex.org/property/BookName>
+                "Towards Semantic Web Services-based Network Configuration Management" ;
+        <http://ex.org/property/author>
+                "Félix J. García Clemente" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Julia Skaggs" .
+
+<http://ex.org/property/1007>
+        <http://ex.org/property/BookName>
+                "VOLUME VISUALIZATION" ;
+        <http://ex.org/property/author>
+                "Arie Kaufman" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Monika Her" .
+
+<http://ex.org/property/1048>
+        <http://ex.org/property/BookName>
+                "Relational Database Management System" ;
+        <http://ex.org/property/author>
+                "Andrew Butterfield" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Marc Horvath" .
+
+<http://ex.org/property/1001>
+        <http://ex.org/property/BookName>
+                "Towards Semantic Web Services-based Network Configuration Management" ;
+        <http://ex.org/property/author>
+                "Félix J. García Clemente" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Minaly Y" .
+
+<http://ex.org/property/1042>
+        <http://ex.org/property/BookName>
+                "RISK MANAGEMENT" ;
+        <http://ex.org/property/author>
+                "Michael Frenkel" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Robert King" .
+
+<http://ex.org/property/1014>
+        <http://ex.org/property/BookName>
+                "The Structure of State and Local Government" ;
+        <http://ex.org/property/author>
+                "Robert D. Ebel" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "John William Miller" .
+
+<http://ex.org/property/1055>
+        <http://ex.org/property/BookName>
+                "VOLT-AMPERE METERS" ;
+        <http://ex.org/property/author>
+                "M. B. Silva Pedro Giräo " ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Robert King" .
+
+<http://ex.org/property/1027>
+        <http://ex.org/property/BookName>
+                "Towards Semantic Web Services-based Network Configuration Management" ;
+        <http://ex.org/property/author>
+                "Félix J. García Clemente" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Jyothi Mavilla" .
+
+<http://ex.org/property/1021>
+        <http://ex.org/property/BookName>
+                "The Politics of Education" ;
+        <http://ex.org/property/author>
+                "Kenneth J. Saltman" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "Jackson Frederic Bush" .
+
+<http://ex.org/property/1062>
+        <http://ex.org/property/BookName>
+                "Food and Global History" ;
+        <http://ex.org/property/author>
+                "Raymond Grew" ;
+        <http://ex.org/property/dept>  "History" ;
+        <http://ex.org/property/studentName>
+                "Paul Anneler Zehr" .
+
+<http://ex.org/property/1034>
+        <http://ex.org/property/BookName>
+                "The Politics of Education" ;
+        <http://ex.org/property/author>
+                "Kenneth J. Saltman" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "Sandra Parra" .
+
+<http://ex.org/property/1006>
+        <http://ex.org/property/BookName>
+                "OpenCV 2 Computer Vision Application Programming Cookbook" ;
+        <http://ex.org/property/author>
+                "Robert Laganiere" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Minaly Y" .
+
+<http://ex.org/property/1047>
+        <http://ex.org/property/BookName>
+                "Plants genes & agriculture : sustainability through biotechnology" ;
+        <http://ex.org/property/author>
+                "Maarten J. Chrispeels" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Amy Scroggs" .
+
+<http://ex.org/property/1019>
+        <http://ex.org/property/BookName>
+                "Ideology and Public Policy" ;
+        <http://ex.org/property/author>
+                "Dany Lacombe" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "John William Miller" .
+
+<http://ex.org/property/1041>
+        <http://ex.org/property/BookName>
+                "Community Power and Citizen Action" ;
+        <http://ex.org/property/author>
+                "Michael Gecan" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "Sandra Parra" .
+
+<http://ex.org/property/1013>
+        <http://ex.org/property/BookName>
+                "Plants genes & agriculture : sustainability through biotechnology" ;
+        <http://ex.org/property/author>
+                "Maarten J. Chrispeels" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Elisa Bates" .
+
+<http://ex.org/property/1054>
+        <http://ex.org/property/BookName>
+                "Plants genes & agriculture : sustainability through biotechnology" ;
+        <http://ex.org/property/author>
+                "Maarten J. Chrispeels" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Maria Joy Thomas" .
+
+<http://ex.org/property/1026>
+        <http://ex.org/property/BookName>
+                "VOLUME VISUALIZATION" ;
+        <http://ex.org/property/author>
+                "Arie Kaufman" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Robert King" .
+
+<http://ex.org/property/1039>
+        <http://ex.org/property/BookName>
+                "Controlling the School Environment: Criminal Justice Responses" ;
+        <http://ex.org/property/author>
+                " A. Kimberly McCabe" ;
+        <http://ex.org/property/dept>  "Criminal Justice" ;
+        <http://ex.org/property/studentName>
+                "Steve Heim" .
+
+<http://ex.org/property/1020>
+        <http://ex.org/property/BookName>
+                "Food and Global History" ;
+        <http://ex.org/property/author>
+                "Raymond Grew" ;
+        <http://ex.org/property/dept>  "History" ;
+        <http://ex.org/property/studentName>
+                "Eva Madeline Lapp" .
+
+<http://ex.org/property/1061>
+        <http://ex.org/property/BookName>
+                "The science of animal agriculture" ;
+        <http://ex.org/property/author>
+                "Ray V. Herren" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Maria Joy Thomas" .
+
+<http://ex.org/property/1033>
+        <http://ex.org/property/BookName>
+                "Precision agriculture for sustainability" ;
+        <http://ex.org/property/author>
+                "Dr John Stafford" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Amy Scroggs" .
+
+<http://ex.org/property/1005>
+        <http://ex.org/property/BookName>
+                "SOCIAL ECOLOGY" ;
+        <http://ex.org/property/author>
+                "Helmut Haberl" ;
+        <http://ex.org/property/dept>  "Biology" ;
+        <http://ex.org/property/studentName>
+                "Raisa Suggs" .
+
+<http://ex.org/property/1046>
+        <http://ex.org/property/BookName>
+                "Controlling the School Environment: Criminal Justice Responses" ;
+        <http://ex.org/property/author>
+                " A. Kimberly McCabe" ;
+        <http://ex.org/property/dept>  "Criminal Justice" ;
+        <http://ex.org/property/studentName>
+                "Kathy Corey" .
+
+<http://ex.org/property/1018>
+        <http://ex.org/property/BookName>
+                "The science of animal agriculture" ;
+        <http://ex.org/property/author>
+                "Ray V. Herren" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Miranda Joy Schlabach" .
+
+<http://ex.org/property/1059>
+        <http://ex.org/property/BookName>
+                "The science of animal agriculture" ;
+        <http://ex.org/property/author>
+                "Ray V. Herren" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Ruth Mary Wiens" .
+
+<http://ex.org/property/1040>
+        <http://ex.org/property/BookName>
+                "Relational Database Management System" ;
+        <http://ex.org/property/author>
+                "Andrew Butterfield" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Alexa Middleton" .
+
+<http://ex.org/property/1012>
+        <http://ex.org/property/BookName>
+                "RISK MANAGEMENT" ;
+        <http://ex.org/property/author>
+                "Michael Frenkel" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Norma Joseph" .
+
+<http://ex.org/property/1053>
+        <http://ex.org/property/BookName>
+                "Artificial Intelligence" ;
+        <http://ex.org/property/author>
+                "Jerry Overton" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Julia Skaggs" .
+
+<http://ex.org/property/1025>
+        <http://ex.org/property/BookName>
+                "Precision agriculture for sustainability" ;
+        <http://ex.org/property/author>
+                "Dr John Stafford" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Miranda Joy Schlabach" .
+
+<http://ex.org/property/1038>
+        <http://ex.org/property/BookName>
+                "Twenty lessons in the sociology of food and agriculture" ;
+        <http://ex.org/property/author>
+                "Jason Konefal" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Miranda Joy Schlabach" .
+
+<http://ex.org/property/1060>
+        <http://ex.org/property/BookName>
+                "Food and Global History" ;
+        <http://ex.org/property/author>
+                "Raymond Grew" ;
+        <http://ex.org/property/dept>  "History" ;
+        <http://ex.org/property/studentName>
+                "Samantha Ellen Weaver" .
+
+<http://ex.org/property/1032>
+        <http://ex.org/property/BookName>
+                "OpenCV 2 Computer Vision Application Programming Cookbook" ;
+        <http://ex.org/property/author>
+                "Robert Laganiere" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Alexa Middleton" .
+
+<http://ex.org/property/1004>
+        <http://ex.org/property/BookName>
+                "The Politics of Education" ;
+        <http://ex.org/property/author>
+                "Kenneth J. Saltman" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "Justin Charles" .
+
+<http://ex.org/property/1045>
+        <http://ex.org/property/BookName>
+                "RISK MANAGEMENT" ;
+        <http://ex.org/property/author>
+                "Michael Frenkel" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Daniel Lichty" .
+
+<http://ex.org/property/1017>
+        <http://ex.org/property/BookName>
+                "VOLT-AMPERE METERS" ;
+        <http://ex.org/property/author>
+                "M. B. Silva Pedro Giräo " ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Monika Her" .
+
+<http://ex.org/property/1058>
+        <http://ex.org/property/BookName>
+                "Artificial Intelligence" ;
+        <http://ex.org/property/author>
+                "Jerry Overton" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Alexa Middleton" .
+
+<http://ex.org/property/﻿Book Transaction ID>
+        <http://ex.org/property/BookName>
+                "Book Name" ;
+        <http://ex.org/property/author>
+                "Author Name" ;
+        <http://ex.org/property/dept>  "Department" ;
+        <http://ex.org/property/studentName>
+                "Student Name" .
+
+<http://ex.org/property/1011>
+        <http://ex.org/property/BookName>
+                "Relational Database Management System" ;
+        <http://ex.org/property/author>
+                "Andrew Butterfield" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Sara Jean Soto" .
+
+<http://ex.org/property/1052>
+        <http://ex.org/property/BookName>
+                "The Structure of State and Local Government" ;
+        <http://ex.org/property/author>
+                "Robert D. Ebel" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "Elizabeth Franks-North" .
+
+<http://ex.org/property/1024>
+        <http://ex.org/property/BookName>
+                "SOCIAL ECOLOGY" ;
+        <http://ex.org/property/author>
+                "Helmut Haberl" ;
+        <http://ex.org/property/dept>  "Biology" ;
+        <http://ex.org/property/studentName>
+                "Jennifer Fultz" .
+
+<http://ex.org/property/1037>
+        <http://ex.org/property/BookName>
+                "VOLUME VISUALIZATION" ;
+        <http://ex.org/property/author>
+                "Arie Kaufman" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Jae Lee" .
+
+<http://ex.org/property/1009>
+        <http://ex.org/property/BookName>
+                "Community Power and Citizen Action" ;
+        <http://ex.org/property/author>
+                "Michael Gecan" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "Justin Charles" .
+
+<http://ex.org/property/1031>
+        <http://ex.org/property/BookName>
+                "ELECTRICAL ENGINEERING EDUCATION" ;
+        <http://ex.org/property/author>
+                " P. Andrew Sage" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Daniel Lichty" .
+
+<http://ex.org/property/1003>
+        <http://ex.org/property/BookName>
+                "Precision agriculture for sustainability" ;
+        <http://ex.org/property/author>
+                "Dr John Stafford" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Elisa Bates" .
+
+<http://ex.org/property/1044>
+        <http://ex.org/property/BookName>
+                "Relational Database Management System" ;
+        <http://ex.org/property/author>
+                "Andrew Butterfield" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Julia Skaggs" .
+
+<http://ex.org/property/1016>
+        <http://ex.org/property/BookName>
+                "Artificial Intelligence" ;
+        <http://ex.org/property/author>
+                "Jerry Overton" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Sara Jean Soto" .
+
+<http://ex.org/property/1057>
+        <http://ex.org/property/BookName>
+                "Community Power and Citizen Action" ;
+        <http://ex.org/property/author>
+                "Michael Gecan" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "Elizabeth Franks-North" .
+
+<http://ex.org/property/1029>
+        <http://ex.org/property/BookName>
+                "SOCIAL ECOLOGY" ;
+        <http://ex.org/property/author>
+                "Helmut Haberl" ;
+        <http://ex.org/property/dept>  "Biology" ;
+        <http://ex.org/property/studentName>
+                "Jaclyn Rumley" .
+
+<http://ex.org/property/1010>
+        <http://ex.org/property/BookName>
+                "Controlling the School Environment: Criminal Justice Responses" ;
+        <http://ex.org/property/author>
+                " A. Kimberly McCabe" ;
+        <http://ex.org/property/dept>  "Criminal Justice" ;
+        <http://ex.org/property/studentName>
+                "Macey Riley" .
+
+<http://ex.org/property/1051>
+        <http://ex.org/property/BookName>
+                "VOLT-AMPERE METERS" ;
+        <http://ex.org/property/author>
+                "M. B. Silva Pedro Giräo " ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Daniel Lichty" .
+
+<http://ex.org/property/1023>
+        <http://ex.org/property/BookName>
+                "ELECTRICAL ENGINEERING EDUCATION" ;
+        <http://ex.org/property/author>
+                " P. Andrew Sage" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Jae Lee" .
+
+<http://ex.org/property/1036>
+        <http://ex.org/property/BookName>
+                "SOCIAL ECOLOGY" ;
+        <http://ex.org/property/author>
+                "Helmut Haberl" ;
+        <http://ex.org/property/dept>  "Biology" ;
+        <http://ex.org/property/studentName>
+                "Jaclyn Rumley" .
+
+<http://ex.org/property/1008>
+        <http://ex.org/property/BookName>
+                "Twenty lessons in the sociology of food and agriculture" ;
+        <http://ex.org/property/author>
+                "Jason Konefal" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Elisa Bates" .
+
+<http://ex.org/property/1049>
+        <http://ex.org/property/BookName>
+                "Community Power and Citizen Action" ;
+        <http://ex.org/property/author>
+                "Michael Gecan" ;
+        <http://ex.org/property/dept>  "Political Science" ;
+        <http://ex.org/property/studentName>
+                "Jackson Frederic Bush" .
+
+<http://ex.org/property/1030>
+        <http://ex.org/property/BookName>
+                "Ideology and Public Policy" ;
+        <http://ex.org/property/author>
+                "Dany Lacombe" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Jae Lee" .
+
+<http://ex.org/property/1002>
+        <http://ex.org/property/BookName>
+                "ELECTRICAL ENGINEERING EDUCATION" ;
+        <http://ex.org/property/author>
+                " P. Andrew Sage" ;
+        <http://ex.org/property/dept>  "Engineering" ;
+        <http://ex.org/property/studentName>
+                "Norma Joseph" .
+
+<http://ex.org/property/1043>
+        <http://ex.org/property/BookName>
+                "Twenty lessons in the sociology of food and agriculture" ;
+        <http://ex.org/property/author>
+                "Jason Konefal" ;
+        <http://ex.org/property/dept>  "Agricola" ;
+        <http://ex.org/property/studentName>
+                "Amy Scroggs" .
+
+<http://ex.org/property/1015>
+        <http://ex.org/property/BookName>
+                "Feminism & the Women's Rights Movement" ;
+        <http://ex.org/property/author>
+                "Veronica Loveday " ;
+        <http://ex.org/property/dept>  "Women and Gender Studies" ;
+        <http://ex.org/property/studentName>
+                "Andrea L. Mast" .
+
+<http://ex.org/property/1056>
+        <http://ex.org/property/BookName>
+                "Feminism & the Women's Rights Movement" ;
+        <http://ex.org/property/author>
+                "Veronica Loveday " ;
+        <http://ex.org/property/dept>  "Women and Gender Studies" ;
+        <http://ex.org/property/studentName>
+                "Jacob S. Yoder" .
+
+<http://ex.org/property/1028>
+        <http://ex.org/property/BookName>
+                "OpenCV 2 Computer Vision Application Programming Cookbook" ;
+        <http://ex.org/property/author>
+                "Robert Laganiere" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Sara Jean Soto" .
+
+<http://ex.org/property/1050>
+        <http://ex.org/property/BookName>
+                "Feminism & the Women's Rights Movement" ;
+        <http://ex.org/property/author>
+                "Veronica Loveday " ;
+        <http://ex.org/property/dept>  "Women and Gender Studies" ;
+        <http://ex.org/property/studentName>
+                "Karina Flores" .
+
+<http://ex.org/property/1022>
+        <http://ex.org/property/BookName>
+                "OpenCV 2 Computer Vision Application Programming Cookbook" ;
+        <http://ex.org/property/author>
+                "Robert Laganiere" ;
+        <http://ex.org/property/dept>  "Computer Science" ;
+        <http://ex.org/property/studentName>
+                "Jyothi Mavilla" .
